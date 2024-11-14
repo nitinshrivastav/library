@@ -1,2 +1,2 @@
 def issue_book():
-    pass
+    print('Hello')
