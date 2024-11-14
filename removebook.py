@@ -1,2 +1,4 @@
 def remove_book():
-    pass
+    print('Hello')
+    print('Hello')
+    print('Hello')
